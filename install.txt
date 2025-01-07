@@ -42,6 +42,6 @@ source venv/bin/activate
 
 pip install selenium webdriver-manager
 
-cp /seleran/*.py /seleran/tests/
-cp /seleran/*.txt /seleran/tests/
+cp /seleran1/*.py /seleran1/tests/
+cp /seleran1/*.txt /seleran1/tests/
 
