@@ -40,6 +40,8 @@ python3 -m venv venv
 
 source venv/bin/activate
 
+apt-get install pip
+
 pip install selenium webdriver-manager
 
 cp /seleran1/*.py /seleran1/tests/
